@@ -1,5 +1,6 @@
-name: tensorflow-quickstart
-description: TensorFlow skill covering neural networks, CNNs, RNNs, LSTM, GRU, GANs, VAEs, and practical deep learning workflows with code examples and resources.
+| name        | tensorflow-quickstart |
+|-------------|----------------------|
+| description | TensorFlow skill — Covers neural networks, CNNs, RNNs, LSTM, GRU, GANs, VAEs, model training, data pipelines, and practical deep learning workflows with code examples. |
 
 ---
 
